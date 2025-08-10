@@ -1,5 +1,4 @@
 #include<iostream>
-#include<conio.h>
 #include<vector>
 #include<string.h>
 #include<string>
@@ -364,5 +363,4 @@ int main()
 			}
 		} while (choice != 2);
 	}
-	_getch();
 }

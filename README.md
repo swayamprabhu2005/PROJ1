@@ -37,11 +37,19 @@ View existing recipes from files
 
 File Structure
 project/
+
 │
+
 ├── main.cpp
+
 ├── usernames.txt
+
 ├── passwords.txt
+
 ├── veg maincourse.txt
+
 ├── veg dessert.txt
+
 ├── non-veg maincourse.txt
+
 └── non-veg dessert.txt

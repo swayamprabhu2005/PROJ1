@@ -1,38 +1,37 @@
 Online Recipe Book (C++)
-Overview
 
 The Online Recipe Book is a console-based C++ application that allows users to create an account, log in, and manage recipes.
 Users can add or view recipes categorized as:
 
-Veg or Non-Veg
+i. Veg or Non-Veg
 
-Main Course or Dessert
+ii. Main Course or Dessert
 
 All data is stored in text files for persistence.
 
 Features
 
-User authentication system (sign up and login)
+i. User authentication system (sign up and login)
 
-Separate storage for usernames and passwords
+ii. Separate storage for usernames and passwords
 
 Add recipes with:
 
-Title
+i) Title
 
-Ingredients
+ii) Ingredients
 
-Cooking steps
+iii) Cooking steps
 
 Categorized recipe storage:
 
-Veg Main Course
+i) Veg Main Course
 
-Veg Dessert
+ii) Veg Dessert
 
-Non-Veg Main Course
+iii) Non-Veg Main Course
 
-Non-Veg Dessert
+iv) Non-Veg Dessert
 
 View existing recipes from files
 
